@@ -1,0 +1,15 @@
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1168\obj\Debug\net7.0\bee1168.csproj.AssemblyReference.cache
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1168\obj\Debug\net7.0\bee1168.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1168\obj\Debug\net7.0\bee1168.AssemblyInfoInputs.cache
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1168\obj\Debug\net7.0\bee1168.AssemblyInfo.cs
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1168\obj\Debug\net7.0\bee1168.csproj.CoreCompileInputs.cache
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1168\bin\Debug\net7.0\bee1168.exe
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1168\bin\Debug\net7.0\bee1168.deps.json
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1168\bin\Debug\net7.0\bee1168.runtimeconfig.json
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1168\bin\Debug\net7.0\bee1168.dll
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1168\bin\Debug\net7.0\bee1168.pdb
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1168\obj\Debug\net7.0\bee1168.dll
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1168\obj\Debug\net7.0\refint\bee1168.dll
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1168\obj\Debug\net7.0\bee1168.pdb
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1168\obj\Debug\net7.0\bee1168.genruntimeconfig.cache
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1168\obj\Debug\net7.0\ref\bee1168.dll
