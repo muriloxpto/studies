@@ -1,0 +1,15 @@
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1024\bin\Debug\net7.0\bee1024.exe
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1024\bin\Debug\net7.0\bee1024.deps.json
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1024\bin\Debug\net7.0\bee1024.runtimeconfig.json
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1024\bin\Debug\net7.0\bee1024.dll
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1024\bin\Debug\net7.0\bee1024.pdb
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1024\obj\Debug\net7.0\bee1024.csproj.AssemblyReference.cache
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1024\obj\Debug\net7.0\bee1024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1024\obj\Debug\net7.0\bee1024.AssemblyInfoInputs.cache
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1024\obj\Debug\net7.0\bee1024.AssemblyInfo.cs
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1024\obj\Debug\net7.0\bee1024.csproj.CoreCompileInputs.cache
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1024\obj\Debug\net7.0\bee1024.dll
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1024\obj\Debug\net7.0\refint\bee1024.dll
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1024\obj\Debug\net7.0\bee1024.pdb
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1024\obj\Debug\net7.0\bee1024.genruntimeconfig.cache
+C:\Users\muril\Documents\projetos\github\estudos\beecrowd\strings\bee1024\obj\Debug\net7.0\ref\bee1024.dll
