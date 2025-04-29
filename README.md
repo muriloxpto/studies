@@ -1,7 +1,7 @@
 # Portfólio
-Projetos criados durante o estudo de alguma ferramenta ou técnica
+Projects developed during my studies involving specific tools or technical skills.
 
-## Estudando C#
+## Studying C#
 1004 - Produto Simples | [Solução](https://github.com/muriloxpto/estudos/tree/453c490049a1819599528adab59415bb4afe2faf/beecrowd/iniciante/bee1004)
 [Problema](https://www.beecrowd.com.br/repository/UOJ_1004.html)<br/>
 1005 - Média 1 | [Solução](https://github.com/muriloxpto/estudos/tree/bf6ed7ef12593ab44d1147586ff171846bb33714/beecrowd/iniciante/bee1005)
